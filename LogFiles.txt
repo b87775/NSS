@@ -3,7 +3,7 @@ Access logs, Error log, authentication logs, and system message logs
 What are the dates which are represented by the logs?
 The times represent the date the errors or access occured
 How many unique users appear?
-
+11 
 What was the largest data export? and does it look out of the ordinary?
 
 What is the most common error found in the error logs?
