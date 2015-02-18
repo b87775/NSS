@@ -1,14 +1,26 @@
 What type of log files are they?
-Access logs, Error log, authentication logs, and system message logs
+
+  Access logs, Error log, authentication logs, and system message logs
+
 What are the dates which are represented by the logs?
-The times represent the date the errors or access occured
+
+  The times represent the date the errors or access occured
+
 How many unique users appear?
-11 
+
+  11
+
 What was the largest data export? and does it look out of the ordinary?
+
 
 What is the most common error found in the error logs?
 
+  File does not exist
+
 Do you see anything which is out of the ordinary?
+
+  Failed attempts to login as root would mean that someone has been trying to get access. Also have server fail file doesn't exist would mean that someone is trying to back door the system some how.
 
 Write a short synopsis of what you found.
 
+  Over all this was a fun assignment.  I think that looking at the logs trying to play detective is intersting.  The system seem to do its job and log all the fail login attempts with some of the fail serve page attempts.  This shows when someone is trying to soft hack ur system trying to just go through with your short comings of changing basic user name stuff. Like root root.  Overall fun assignment. 
