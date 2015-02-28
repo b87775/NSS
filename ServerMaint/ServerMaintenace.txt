@@ -1,0 +1,28 @@
+Woods Jason NSS 0215
+
+Install Supplemental Software & server Maintenace
+
+
+Current version of Python 2.7.6
+Downloaded version 
+
+Install Railo Server
+
+Java 7 required
+atp-get install openjdk-7-jre-headless
+
+Tomcat7, Apache2 required
+
+Already have Apache2
+
+apt-get intstall tomcat7 tomcat7-admin version 7
+
+
+
+Railo 4.0
+Railo website has download issues.
+
+found new link http://cfmlprojects.org/artifacts/org/getrailo/railo.express/
+Put this file in the shared folder and run ./start 
+starts railo server on port 8888. 
+See image.
