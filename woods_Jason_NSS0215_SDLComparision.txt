@@ -1,0 +1,32 @@
+Woods Jason
+NSS 0215
+SDL Comparisoin
+
+Rapid vs Waterfall
+
+
+Waterfall
+  * Project Divided into sequential phases
+  * Emphasis is on planning, time schedules, target dates, budget
+  * Implementation of an entire system at one time.
+  * Tight Control over the life of the project
+  * Formal reviews, writtn documentation
+  * Appoval/ signoff by managent at end of mosrt phases
+
+
+Rapid
+  * Start with data models, business process models
+  * Start prototypes instead of up-front planning
+  * Easier to change requirement
+  * Low investment cost
+  * Key emphasis is on fulfilling business need
+  * Prioritize development by defining delivery deadlines or "timeboxes"
+  * Get as much done as possible in each timebox
+  * Deliver Quickly
+
+  Over all the comparision of these two different development process is simple.  One "Waterfall" is very
+  structured, Rapid is more do what we can fast.  Both are great process and both have the place in certain situations.  Rapid would be great for a startup that doen't really know what all they need or want at the time.  Where waterfall is more for someone that has all the bases covered and know everything they want and need.  
+
+
+  
+Software development process. (n.d.). Retrieved March 1, 2015, from http://en.wikipedia.org/wiki/Software_development_process
